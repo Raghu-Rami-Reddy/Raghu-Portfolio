@@ -1,8 +1,11 @@
 /* text css above hero image*/
-/* .container {
+.spline {
+   margin-bottom: 5rem;
+}
+.container {
    position: relative;
    
-} */
+}
 .animate-charcter
 {
    text-transform: uppercase;
